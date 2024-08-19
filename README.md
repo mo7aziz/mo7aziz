@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Abdelaziz</h1>
 <h3 align="center">A passionate frontend developer from Algeria</h3>
-<img align="right" alt="Code" width="400" scr="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif">
 
 - 🌱 I’m currently learning **JavaScript**
 
