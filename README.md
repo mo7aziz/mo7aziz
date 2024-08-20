@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Abdelaziz</h1>
 <h3 align="center">A passionate frontend developer from Algeria</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I am currently practicing **Front-End Development** by building projects.
 
 - 💬 Ask me about **html, css, javaScript**
 
